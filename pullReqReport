@@ -1,0 +1,12 @@
+A pull request (sometimes called merge requests), is a review request. You are asking someone to check the changes on a branch before merging into another branch.
+A pull request is related to version control systems. You may have several sets of users:
+
+    Administrators/Owners
+    Contributors
+    Testers
+
+    Administrators/Owners
+    These people can be trusted. They might have full access to the repository in question, including full rights to commit what they want when they want.
+    Contributors
+    These might be random people from the Internet; they might be lesser people in a company. Either way, you probably don't want them to be able to commit straight to the codebase - you want to review their changes first.
+
